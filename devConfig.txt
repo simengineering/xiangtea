@@ -1,0 +1,18 @@
+[Git-Bash]
+npm install -g @ionic/cli
+npm install -g android-platform-tools
+ionic init Xiang --multi-app
+
+npm install @capacitor/core @capacitor/cli
+
+
+[CMD] 
+
+// within www directory
+npx cap init 
+
+
+// in root directory, i.e. ../www
+npx cap add android
+npx cap open android
+

@@ -1,0 +1,8 @@
+chrome
+nodejs
+gitbash - git for Windows
+Java Development Kit 15
+Android Data Bridge
+ionic
+capacitor
+android studio

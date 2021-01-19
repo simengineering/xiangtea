@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bootstrap - Prebuilt Layout</title>
+
+<!-- Bootstrap -->
+<link href="css/bootstrap.css" rel="stylesheet">
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<style type="text/css">
+body,td,th {
+	color: #CCC;
+}
+body {
+	background-color: #000;
+}
+</style>
+</head>
+<script id="asp-embed-script" data-zindex="1000000" type="text/javascript" charset="utf-8" src="https://spark.adobe.com/page-embed.js"></script><a class="asp-embed-link" href="https://spark.adobe.com/page/JyQ5NKsdDN7ND/" target="_blank"><img src="https://spark.adobe.com/page/JyQ5NKsdDN7ND/embed.jpg?buster=1591754770549" alt="Xiang Tea" style="width:100%" border="0" /></a>
+
+<body>
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <p>
+    <!-- Brand and toggle get grouped for better mobile display --></p>
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#defaultNavbar1"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+    </div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="defaultNavbar1">
+      <ul class="nav navbar-nav">
+        
+        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Explore<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="http://infm.mercer.edu/infm322/2020_su1/Matthew_H/">Learn</a></li>
+            <li><a href="https://mynoise.net/NoiseMachines/whiteNoiseGenerator.php">Relax</a></li>
+            <li><a href="http://infm.mercer.edu/infm322/2020_su1/Matthew_H/XiangTea/MAINSITE/Xiang_Tea_Main.html">Gallery</a></li>
+            <li class="divider"></li>
+            <li><a href="https://facebook.com/matthewhoppermusic/index.html">Most Popular</a></li>
+            <li class="divider"></li>
+            <li><a href="http://infm.mercer.edu/infm322/2020_su1/Matthew_H/XiangTea/MAINSITE/ARTICLES/index.html">Articles about us</a></li>
+          </ul>
+        </li>
+      </ul>
+      <form class="navbar-form navbar-left" role="search">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="twitter.com">Twitter</a></li>
+        <li class="dropdown"><a href="Twitter" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Connect<span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+            <li><a href="#">Get on our mailing list</a></li>
+            <li><a href="#">Be a frequent buyer</a></li>
+            <li><a href="#">Menu</a></li>
+            <li class="divider"></li>
+            <li><a href="#">Videos</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container-fluid -->
+</nav>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <h1 class="text-center">Welcome to Xiang!</h1>
+    </div>
+  </div>
+  <hr>
+
+    
+     
+  <hr>
+  <div class="row">
+    <div class="text-justify col-sm-4"></div>
+    <div class="col-sm-4 text-justify"></div>
+    <div class="col-sm-4 text-justify col-lg-4"></div>
+  </div>
+    </div>
+   <div class="row">
+    <div class="col-sm-4 text-center">
+      <h4><strong>Shop Tea!</strong></h4>
+      <p>Browse through our store...:)</p>
+      <button type="button" class="btn btn-info btn-sm">Shop</button>
+      <button type="button" class="btn btn-success btn-sm">Back</button>
+    </div>
+</div>
+  <hr>
+  <div class="row">
+    <div class="text-center col-md-6 col-md-offset-3">
+      <h4>Contact Us<br>
+      </h4>
+      <p>Copyright &copy; 2020 &middot; All Rights Reserved &middot;Xiang Tea</p>
+    </div>
+  </div>
+  <hr>
+</div>
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="js/jquery-1.11.2.min.js"></script>
+
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.js"></script>
+</body>
+</html>
