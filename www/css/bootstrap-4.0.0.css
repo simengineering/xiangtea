@@ -115,7 +115,7 @@ address {
   padding: 10px;
   font-size: 20px;
   width: 30px;
-  text-align: right;
+  text-align: center;
   text-decoration: none;
 }
 
@@ -128,13 +128,13 @@ address {
 
 /* Facebook */
 .fa-facebook {
-  background: #3B5998;
+  background: #323c7a;
   color: white;
 }
 
 /* Twitter */
 .fa-twitter {
-  background: #55ACEE;
+  background: #ca59e3;
   color: white;
 }
 
