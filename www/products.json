@@ -1,0 +1,37 @@
+[{
+    "id":123,
+    "title":"Oolang",
+    "desc":"Oolang tea from Asia for increased creativity.",
+    "img":"images/oolang/oolang.png",
+    "price":12.34
+},{
+    "id":456,
+    "title":"Assam",
+    "desc":"Assam tea for relaxation.",
+    "img":"images/assam/assam.png",
+    "price":43.21
+},{
+    "id":789,
+    "title":"Chai",
+    "desc":"Spiced tea is delightful in the evening or afternoon.",
+    "img":"images/chai/chai.png",
+    "price":45.67
+},{
+    "id":987,
+    "title":"English",
+    "desc":"Classic breakfast tea.",
+    "img":"images/english/english.png",
+    "price":78.90
+},{
+    "id":654,
+    "title":"Earl Gray",
+    "desc":"Traditional tea-time calls for Earl Gray.",
+    "img":"images/earlgray/earlgray.png",
+    "price":76.54
+},{
+    "id":321,
+    "title":"Blackberry",
+    "desc":"Blackberry tea from Colorado.",
+    "img":"images/blackberry/blackberry.png",
+    "price":23.45
+}]
