@@ -20,13 +20,13 @@
     "id":987,
     "title":"English",
     "desc":"Classic breakfast tea.",
-    "img":"TEAS/inventory/turkish/turkish.jpg",
+    "img":"TEAS/inventory/brazil/brazil.jpg",
     "price":78.90
 },{
     "id":654,
-    "title":"Earl Gray",
+    "title":"Earl Grey",
     "desc":"Traditional tea-time calls for Earl Gray.",
-    "img":"TEAS/inventory/earlgray/earlgray.jpg",
+    "img":"TEAS/inventory/earlgrey/earlgrey.jpg",
     "price":76.54
 },{
     "id":321,
