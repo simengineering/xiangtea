@@ -9,8 +9,9 @@ app.get('/', function(req,res) {
 });
 
 const server = http.createServer(app);
-const port = 3000;
-server.listen(port);
 
-console.debug('Server listening on port ' + port);
+const PORT = process.env.PORT || 3000;
+server.listen(PORT);
+console.debug('Matt...your server is listening on port ' + PORT);
+
 
